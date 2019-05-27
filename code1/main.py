@@ -5,3 +5,4 @@ if __name__ == '__main__':
     app = create_app()
     # 启动
     app.run()
+    num1 = 10
